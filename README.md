@@ -1,5 +1,5 @@
 # RepostGaurd-for-ONDC
-"ReportGuard" enhances trust in online marketplaces by enabling users to report frequent product resenders, providing transparency and enabling other integrated companies to access the user's report history for informed decision-making.
+The "ReportGuard" project aims to enhance trust and transparency in online marketplaces, specifically for the Online National Delivery Corporation (ONDC). It involves the implementation of a user reporting system where users can flag and report others who frequently resend products purchased from e-commerce platforms. Reported users are tracked, and their report history is made accessible to other integrated companies, enabling them to make informed decisions based on the user's history. By providing a secure and privacy-conscious solution, ReportGuard promotes fair and reliable transactions, protecting both sellers and buyers in the online marketplace ecosystem.
 How to run?
 Terminal 1:
 
